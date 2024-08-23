@@ -1,7 +1,7 @@
 // main.js
 
 // 변수 정의
-const correctPassword = '0510'; // 여기에 실제 비밀번호를 입력하세요
+const correctPassword = '0507'; // 여기에 실제 비밀번호를 입력하세요
 const loginContainer = document.getElementById('login-container');
 const imageContainer = document.getElementById('image-container');
 const passwordInput = document.getElementById('password-input');
